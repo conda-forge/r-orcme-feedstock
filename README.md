@@ -1,11 +1,11 @@
-About r-orcme
-=============
+About r-orcme-feedstock
+=======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-orcme-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=ORCME
 
 Package license: GPL-3
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-orcme-feedstock/blob/main/LICENSE.txt)
 
 Summary: Provides clustering of genes with similar  dose response (or time course) profiles. It implements the method  described by Lin et al. (2012).
 
